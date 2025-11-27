@@ -56,7 +56,7 @@ include('dbconnect.php')
           </div>
         </div>
       </div>
-      <!-- content-wrapper ends -->
+      <!--content-wrapper ends -->
     </div>
     <!-- page-body-wrapper ends -->
   </div>
